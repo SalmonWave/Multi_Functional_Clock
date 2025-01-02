@@ -8,6 +8,6 @@ This repository contains Verilog projects developed using the BASYS-3 board.
 
 ## Additional Resources
 You can download the complete files and presentation materials through the following Google Drive link:
-[Google Drive Link]((https://drive.google.com/drive/folders/15JyY9BT0l5frCrDhRdzh79fwNuJjeAex?usp=drive_link))
+[Google Drive Link](https://drive.google.com/drive/folders/15JyY9BT0l5frCrDhRdzh79fwNuJjeAex?usp=drive_link)
 
 Feel free to explore, use, and contribute!
